@@ -7,7 +7,7 @@
         "powers": ["Super strength", "Flight", "Heat vision"],
         "affiliation": "Justice League",
         "universe": "DC Comics",
-        "image": "superman.jpg",
+        "image": "https://i.ibb.co/L6dx5Qk/image.png",
         "description": "Superman is the last surviving Kryptonian, possessing incredible superhuman abilities that he uses to protect the people of Earth."
       },
       {
@@ -17,7 +17,7 @@
         "powers": ["Wall-crawling", "Web-slinging", "Spider-sense"],
         "affiliation": "The Avengers",
         "universe": "Marvel Comics",
-        "image": "spiderman.jpg",
+        "image": "https://i.ibb.co/cbHM40L/image.png",
         "description": "Spider-Man is a friendly neighborhood superhero known for his agility, web-slinging, and incredible reflexes."
       },
       {
@@ -27,7 +27,7 @@
         "powers": ["Super strength", "Lasso of Truth", "Flight"],
         "affiliation": "Justice League",
         "universe": "DC Comics",
-        "image": "wonderwoman.jpg",
+        "image": "https://i.ibb.co/b3qBndt/image.png",
         "description": "Wonder Woman is an Amazonian warrior princess with god-like strength and the Lasso of Truth, dedicated to justice and peace."
       },
       {
@@ -37,7 +37,7 @@
         "powers": ["Powered Armor Suit", "Genius-level intellect", "Flight"],
         "affiliation": "The Avengers",
         "universe": "Marvel Comics",
-        "image": "ironman.jpg",
+        "image": "https://i.ibb.co/8PJm9q4/image.png",
         "description": "Iron Man, with his advanced powered armor, is a genius inventor and a charismatic billionaire philanthropist."
       },
       {
@@ -47,7 +47,7 @@
         "powers": ["Superhuman strength", "Enhanced agility", "Indomitable will"],
         "affiliation": "The Avengers",
         "universe": "Marvel Comics",
-        "image": "captainamerica.jpg",
+        "image": "https://i.ibb.co/C1SghX9/image.png",
         "description": "Captain America is a super-soldier with an unbreakable shield, representing American ideals and defending freedom."
       },
       {
@@ -57,7 +57,7 @@
         "powers": ["Superhuman strength", "Energy absorption", "Flight"],
         "affiliation": "The Avengers",
         "universe": "Marvel Comics",
-        "image": "wonderman.jpg",
+        "image": "https://i.ibb.co/y8Kd22q/image.png",
         "description": "Wonder Man possesses superhuman strength and energy powers, making him a valuable member of The Avengers."
       },
       {
@@ -67,7 +67,7 @@
         "powers": ["Master martial artist", "Espionage skills", "Widow's Bite"],
         "affiliation": "The Avengers",
         "universe": "Marvel Comics",
-        "image": "blackwidow.jpg",
+        "image": "https://i.ibb.co/3RdJDwG/image.png",
         "description": "Black Widow is a highly trained spy and martial artist, known for her combat skills and intelligence."
       },
       {
@@ -77,7 +77,7 @@
         "powers": ["Power ring", "Flight", "Energy constructs"],
         "affiliation": "Green Lantern Corps",
         "universe": "DC Comics",
-        "image": "greenlantern.jpg",
+        "image": "https://i.ibb.co/qLHWQqq/image.png",
         "description": "Green Lantern wields a power ring that can create energy constructs and is part of an intergalactic police force."
       },
       {
@@ -87,7 +87,7 @@
         "powers": ["Weather manipulation", "Flight", "Atmospheric control"],
         "affiliation": "X-Men",
         "universe": "Marvel Comics",
-        "image": "storm.jpg",
+        "image": "https://i.ibb.co/rwnpqHv/image.png",
         "description": "Storm is a mutant with the power to control the weather, often serving as a leader of the X-Men."
       }
     ]
