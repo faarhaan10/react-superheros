@@ -1,0 +1,94 @@
+{
+    "superheroes": [
+      {
+        "id": 1,
+        "name": "Superman",
+        "alter_ego": "Clark Kent",
+        "powers": ["Super strength", "Flight", "Heat vision"],
+        "affiliation": "Justice League",
+        "universe": "DC Comics",
+        "image": "superman.jpg",
+        "description": "Superman is the last surviving Kryptonian, possessing incredible superhuman abilities that he uses to protect the people of Earth."
+      },
+      {
+        "id": 2,
+        "name": "Spider-Man",
+        "alter_ego": "Peter Parker",
+        "powers": ["Wall-crawling", "Web-slinging", "Spider-sense"],
+        "affiliation": "The Avengers",
+        "universe": "Marvel Comics",
+        "image": "spiderman.jpg",
+        "description": "Spider-Man is a friendly neighborhood superhero known for his agility, web-slinging, and incredible reflexes."
+      },
+      {
+        "id": 3,
+        "name": "Wonder Woman",
+        "alter_ego": "Diana Prince",
+        "powers": ["Super strength", "Lasso of Truth", "Flight"],
+        "affiliation": "Justice League",
+        "universe": "DC Comics",
+        "image": "wonderwoman.jpg",
+        "description": "Wonder Woman is an Amazonian warrior princess with god-like strength and the Lasso of Truth, dedicated to justice and peace."
+      },
+      {
+        "id": 4,
+        "name": "Iron Man",
+        "alter_ego": "Tony Stark",
+        "powers": ["Powered Armor Suit", "Genius-level intellect", "Flight"],
+        "affiliation": "The Avengers",
+        "universe": "Marvel Comics",
+        "image": "ironman.jpg",
+        "description": "Iron Man, with his advanced powered armor, is a genius inventor and a charismatic billionaire philanthropist."
+      },
+      {
+        "id": 5,
+        "name": "Captain America",
+        "alter_ego": "Steve Rogers",
+        "powers": ["Superhuman strength", "Enhanced agility", "Indomitable will"],
+        "affiliation": "The Avengers",
+        "universe": "Marvel Comics",
+        "image": "captainamerica.jpg",
+        "description": "Captain America is a super-soldier with an unbreakable shield, representing American ideals and defending freedom."
+      },
+      {
+        "id": 6,
+        "name": "Wonder Man",
+        "alter_ego": "Simon Williams",
+        "powers": ["Superhuman strength", "Energy absorption", "Flight"],
+        "affiliation": "The Avengers",
+        "universe": "Marvel Comics",
+        "image": "wonderman.jpg",
+        "description": "Wonder Man possesses superhuman strength and energy powers, making him a valuable member of The Avengers."
+      },
+      {
+        "id": 7,
+        "name": "Black Widow",
+        "alter_ego": "Natasha Romanoff",
+        "powers": ["Master martial artist", "Espionage skills", "Widow's Bite"],
+        "affiliation": "The Avengers",
+        "universe": "Marvel Comics",
+        "image": "blackwidow.jpg",
+        "description": "Black Widow is a highly trained spy and martial artist, known for her combat skills and intelligence."
+      },
+      {
+        "id": 8,
+        "name": "Green Lantern",
+        "alter_ego": "Hal Jordan",
+        "powers": ["Power ring", "Flight", "Energy constructs"],
+        "affiliation": "Green Lantern Corps",
+        "universe": "DC Comics",
+        "image": "greenlantern.jpg",
+        "description": "Green Lantern wields a power ring that can create energy constructs and is part of an intergalactic police force."
+      },
+      {
+        "id": 9,
+        "name": "Storm",
+        "alter_ego": "Ororo Munroe",
+        "powers": ["Weather manipulation", "Flight", "Atmospheric control"],
+        "affiliation": "X-Men",
+        "universe": "Marvel Comics",
+        "image": "storm.jpg",
+        "description": "Storm is a mutant with the power to control the weather, often serving as a leader of the X-Men."
+      }
+    ]
+  }
