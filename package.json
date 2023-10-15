@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^10.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-firebase-auth-hook": "^1.1.4",
+    "react-hook-form": "^7.46.2",
     "react-router-dom": "^6.16.0"
   },
   "devDependencies": {

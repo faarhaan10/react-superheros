@@ -1,5 +1,8 @@
+import { useFirebaseContext } from "react-firebase-auth-hook/FirebaseContext";
+import { Link } from "react-router-dom";
 
 const NavBar = () => {
+    const { logOut, user } = useFirebaseContext();
     return (
         <div className=" bg-red-100">
             <div className="navbar  container mx-auto">
@@ -16,20 +19,28 @@ const NavBar = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a>Item 1</a></li>
-                        <li tabIndex={0}>
-                            <details>
-                                <summary>Parent</summary>
-                                <ul className="p-2">
-                                    <li><a>Submenu 1</a></li>
-                                </ul>
-                            </details>
+                        <li>
+                            <Link to='/'>Home</Link>
                         </li>
-                        <li><a>Item 3</a></li>
+                        <li>
+                            <Link to='/login'>Login</Link>
+                        </li>
+                        <li>
+                            <Link to='/register'>Register</Link>
+                        </li>
+
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn btn-sm">Button</a>
+                    {user?.email && <span>{user?.displayName}</span>}
+                    {
+                        user?.photoURL && <div className="avatar">
+                            <div className="w-12 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2">
+                                <img src={user.photoURL} />
+                            </div>
+                        </div>
+                    }
+                    <button onClick={logOut} className="btn btn-sm">Logout</button>
                 </div>
             </div>
         </div>
